@@ -1,0 +1,1 @@
+Aplicação desenvolvida no segundo semestre do curso Análise e Desenvolvimento de Sistemas na linguagem de programação C#. A aplicação é um teste de personalidade onde o usuário responde algumas questões e por fim recebe como resultado uma área da computação que se encaixaria e a mulher pioneira nesta área.
